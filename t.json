@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": "string",
+    "type": "matter",
+    "attributes": {
+      "content": "string",
+      "source": "UGC"
+    },
+    "relationships": {
+      "pubscene": {
+        "data": [
+          {
+            "id": "string",
+            "type": "pubscene"
+          }
+        ]
+      },
+      "taskscene": {
+        "data": [
+          {
+            "id": "string",
+            "type": "taskscene"
+          }
+        ]
+      },
+      "video": {
+        "data": [
+          {
+            "id": "string",
+            "type": "mattervideo"
+          }
+        ]
+      },
+      "image": {
+        "data": [
+          {
+            "id": "string",
+            "type": "matterimage"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+uvicorn
+pyyaml
+pyjwt
+starlette==0.17.1
+fastapi==0.71.0
+jQuery-Unparam
+pytest==6.2.2
+allure-pytest==2.9.43
+treelib
+bitarray
+httpx

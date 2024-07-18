@@ -1,0 +1,9 @@
+.vscode
+setting.yml
+__pycache__
+*.pyc
+*.conf
+*.ini
+log
+venv
+static/openapi.pickle
